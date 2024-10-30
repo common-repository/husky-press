@@ -1,0 +1,295 @@
+# Copyright (C) 2022 Rezkonline
+# This file is distributed under the GPL v3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Husky Press 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/husky-press\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-06T00:53:09+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: husky-press\n"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-admin-menu.php:28
+#: public/js/app.js:721
+msgid "Husky Press"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wp-husky.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin gives your the ability to manage, maintain and monitor one, or multiple WordPress websites."
+msgstr ""
+
+#. Author of the plugin
+msgid "Rezkonline"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rezkonline.com"
+msgstr ""
+
+#: i18n/husky-press.php:3
+msgid "Passwords doesn't match."
+msgstr ""
+
+#: includes/admin/class-admin-track-errors.php:56
+msgid "An error occurred while trying to create a mu-plugin."
+msgstr ""
+
+#: includes/admin/class-admin-track-errors.php:72
+msgid "An error was caused when attempted to create a file in your directory mu-plugins."
+msgstr ""
+
+#: includes/rest/class-plugin.php:163
+msgid "We have not been able to update the plugin. Please contact us for more information."
+msgstr ""
+
+#: includes/rest/class-plugin.php:172
+msgid "The plugin has been updated successfully."
+msgstr ""
+
+#: includes/rest/class-plugin.php:215
+msgid "The plugin has been rollbacked successfully."
+msgstr ""
+
+#: includes/rest/class-plugin.php:251
+msgid "The plugin has been activated successfully."
+msgstr ""
+
+#: includes/rest/class-plugin.php:287
+msgid "The plugin has been deactivated successfully."
+msgstr ""
+
+#: includes/rest/class-plugin.php:322
+#: includes/rest/class-plugin.php:341
+msgid "We can't find old versions of this plugin. Please contact us for more details."
+msgstr ""
+
+#: includes/rest/class-themes.php:113
+msgid "We have not been able to update the theme. Please contact us for more information."
+msgstr ""
+
+#: includes/rest/class-themes.php:122
+msgid "The theme has been updated successfully."
+msgstr ""
+
+#: includes/rest/class-themes.php:153
+msgid "The theme is not installed"
+msgstr ""
+
+#: includes/rest/class-themes.php:164
+msgid "The theme has been activated successfully"
+msgstr ""
+
+#: includes/traits/trait-ajax.php:21
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#. translators: WordPress Version
+#: husky-press.php:133
+msgid "You are using the outdated WordPress, please update it to version %s or higher."
+msgstr ""
+
+#. translators: PHP Version
+#: husky-press.php:139
+msgid "Husky Press requires PHP version %s or above. Please update PHP to run this plugin."
+msgstr ""
+
+#: husky-press.php:276
+msgid "Documentation"
+msgstr ""
+
+#: husky-press.php:289
+msgid "Settings"
+msgstr ""
+
+#: husky-press.php:292
+msgid "Become PREMIUM!"
+msgstr ""
+
+#: public/js/app.js:622
+msgid "I'm currently marking this issue as fixed. Please wait."
+msgstr ""
+
+#: public/js/app.js:699
+msgid "Passwords does not match."
+msgstr ""
+
+#: public/js/app.js:721
+msgid "Login"
+msgstr ""
+
+#: public/js/app.js:721
+msgid "Register"
+msgstr ""
+
+#: public/js/app.js:721
+msgid "Support"
+msgstr ""
+
+#: public/js/app.js:743
+msgid "Welcome"
+msgstr ""
+
+#: public/js/app.js:743
+msgid "Active Account"
+msgstr ""
+
+#: public/js/app.js:743
+msgid "Info Alert!"
+msgstr ""
+
+#: public/js/app.js:754
+msgid "PHP Issues"
+msgstr ""
+
+#: public/js/app.js:754
+msgid "Reported at"
+msgstr ""
+
+#: public/js/app.js:754
+msgid "File"
+msgstr ""
+
+#: public/js/app.js:754
+msgid "Line"
+msgstr ""
+
+#: public/js/app.js:754
+msgid "You don't have issues."
+msgstr ""
+
+#: public/js/app.js:765
+msgid "PHP Health"
+msgstr ""
+
+#: public/js/app.js:765
+msgid "Installed Version"
+msgstr ""
+
+#: public/js/app.js:776
+#: public/js/app.js:853
+msgid "Plugins"
+msgstr ""
+
+#: public/js/app.js:776
+msgid "Manage Plugins"
+msgstr ""
+
+#: public/js/app.js:776
+msgid "All your plugins are up to date."
+msgstr ""
+
+#: public/js/app.js:787
+msgid "Responses"
+msgstr ""
+
+#: public/js/app.js:787
+msgid "We have not recorded any downtime yet. Congrats!"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "There's a problem in fetching your site's data. Please contact us for more details."
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Website Speed"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Average Response Time"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "ms"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Uptime"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Speed Index"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "First Contentful Paint"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Last Contentful Paint"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Blocking Time"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Cumulative Layout"
+msgstr ""
+
+#: public/js/app.js:798
+msgid "Performance data does not appear until at least an hour after project creation. If you think something is wrong, contact us."
+msgstr ""
+
+#: public/js/app.js:809
+msgid "WordPress Core"
+msgstr ""
+
+#: public/js/app.js:820
+msgid "You already have an account? Login to your account"
+msgstr ""
+
+#: public/js/app.js:820
+msgid "You can find your API key in our application by logging into your account."
+msgstr ""
+
+#: public/js/app.js:820
+#: public/js/app.js:831
+msgid "Email"
+msgstr ""
+
+#: public/js/app.js:820
+#: public/js/app.js:831
+msgid "Password"
+msgstr ""
+
+#: public/js/app.js:820
+msgid "Validate"
+msgstr ""
+
+#: public/js/app.js:831
+msgid "Create an account - It's Free !"
+msgstr ""
+
+#: public/js/app.js:831
+msgid "You need to register so we can alert you if downtime or problems happen."
+msgstr ""
+
+#: public/js/app.js:831
+msgid "Name"
+msgstr ""
+
+#: public/js/app.js:831
+msgid "Password Confirmation"
+msgstr ""
+
+#: public/js/app.js:831
+msgid "Join Us"
+msgstr ""
+
+#: public/js/app.js:853
+msgid "Activated Plugins"
+msgstr ""
+
+#: public/js/app.js:853
+msgid "Deactivated Plugins"
+msgstr ""
